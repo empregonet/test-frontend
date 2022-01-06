@@ -34,6 +34,9 @@ um colaborador/avaliador da emprego.net.
 Acima na estrutura do teste temos uma pasta chamada layouts, nela contém a tela que terá que ser desenvolvida.
 É uma tela única para desktop e mobile, porém mudando apenas a forma de apresentação dos elementos em cada resolução (desktop/mobile).
 
+## Dúvidas
+Vamos criar um canal de comunicação direta com o avaliador para dúvidas sobre a execução do teste, você receberá mais informações diretamente no seu WhatsApp ou email.
 
-
+## Sem mais delongas
+Te desejamos todo sucesso, estamos torcendo por você! Boa sorte! 
 
